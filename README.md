@@ -1,16 +1,20 @@
-## Hi there 👋
+# John Adu-Poku
 
-<!--
-**JohnAdu-Poku/JohnAdu-Poku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mathematical modeling · Numerical methods · Scientific computing**
 
-Here are some ideas to get you started:
+Welcome to my mathematical research and learning portfolio. My interests include differential equations, dynamical systems, mathematical biology, and connections between mechanistic models and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+[**Scientific computing in Python and MATLAB**](https://github.com/JohnAdu-Poku/scientific-computing)
+
+An accessible comparison of Euler and fourth-order Runge–Kutta methods, with mathematical explanations, implementations in both languages, exact-solution checks, and reproducible convergence experiments.
+
+## Portfolio direction
+
+- Explain the mathematics behind numerical algorithms.
+- Compare computational results against known solutions.
+- Develop reproducible experiments in Python and MATLAB.
+- Build toward parameter estimation and scientific machine learning.
+
+Each project documents its assumptions, installation steps, validation, and limitations. Public examples use standard educational problems; confidential material and unpublished collaborative research are excluded.
